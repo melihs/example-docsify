@@ -7,4 +7,4 @@ You can reach me through the links below and support me.
 > [medium](https://medium.com/@melihsahin)
 
 ------------ 
-[Get Started](#main)
+[Get Started](#getting-started)
